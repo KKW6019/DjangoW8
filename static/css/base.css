@@ -9,7 +9,7 @@
   flex-wrap: wrap;
   padding: 5px 5vw;
   /* background-color : 배경색 설정 */
-  background-color: MediumTurquoise;
+  background-color: rgb(0, 148, 234);
 }
 
 /* .navbar span : .navbar 태그 안쪽에 있는 span 태그에 css 적용 */
@@ -23,7 +23,7 @@
 .navbar a {
   padding: 3px 6px;
   /* color : 텍스트 색상 설정 */
-  color: black;
+  color: rgb(0, 0, 0);
   /* 1.5rem : html 태그 폰트 크기의 1.5배 */
   font-size: 1.5rem;
   /* text-decoration : 선으로 글자를 꾸미는 속성 */
@@ -35,7 +35,7 @@
   padding: 3px 6px;
   /* border-radius : 테두리를 둥글게 하는 속성 */
   border-radius: 10px;
-  background-color: PaleTurquoise;
+  background-color: rgb(121, 91, 231);
 }
 
 .navbar__logo {
